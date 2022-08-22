@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Code 1
 Changing code
 sceond branch abc first master 
+=======
+second branch abc
+>>>>>>> sec_branch
